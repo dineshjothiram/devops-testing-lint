@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.coverage
+htmlcov/
+.dist-info/
+*.egg-info/
+.idea/
+.vscode/
